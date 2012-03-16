@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QuickTasks</string>
+	<string name="no_tasks">Currently there are no Task items maintained</string>
+	<string name="menu_insert">Add Item</string>
+	<string name="menu_delete">Delete Task</string>
+	<string name="task_summary">Summary</string>
+	<string name="task_description">Delete Task</string>
+	<string name="task_edit_summary">Summary</string>
+	<string name="task_edit_description">Description</string>
+	<string name="task_edit_confirm">Confirm</string>
+</resources>
